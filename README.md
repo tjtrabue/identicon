@@ -1,6 +1,7 @@
 # Identicon
 
-**TODO: Add description**
+A practice Elixir application that generates a visual hash (i.e., "identicons")
+based on an input string.
 
 ## Installation
 
